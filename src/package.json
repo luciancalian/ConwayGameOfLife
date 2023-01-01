@@ -1,0 +1,13 @@
+{
+  "name": "conways-game-of-life",
+  "version": "1.0.0",
+  "description": "A visual representation in React of Conway's Game of Life",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-flexbox-grid": "2.1.0"
+  }
+}
